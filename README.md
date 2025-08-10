@@ -31,8 +31,7 @@
 ## 📊 My Github Stats
 <p>
   <img src="https://streak-stats.demolab.com/?user=yograj2024&show_icons=true" alt="Yograj's GitHub stats" />  &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=yograj2024&show_icons=true" alt="Yograj's GitHub stats" />
-</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj2024" alt="Yograj's GitHub stats"  />
+</p>
 <!-- https://metrics.lecoq.io/yograj2024?template=classic&base.repositories=0&isocalendar=1&languages=1&followup=1 -->
 
