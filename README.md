@@ -11,9 +11,14 @@
 
 ## 🌐 Live Projects Links
 
-### ✈️ Flight Booking & Travel Website  
-  - Responsive and modern UI design for a flight booking and travel platform.  
+### ✈️ Flight Booking & Travel Website (UI Only) 
+  - Responsive and modern UI design for a flight booking and travel platform.
+  - Implemented **conditional rendering** for dynamic UI elements and improved user interaction. <br>
   [**wispyDeals.com**](https://wispydeals.com/)
+
+### 💼 Web Design Agency Website (UI Only)  
+- Creative and modern UI design for a web design agency's service website.<br>
+  <a href="https://yograj2024.github.io/-Web-Design-Agencypage/">Web-Design-Agencypage template</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
