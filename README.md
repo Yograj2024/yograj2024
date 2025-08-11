@@ -9,7 +9,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href=www.linkedin.com/in/yograj-singh-750a07315" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chigmalinkend" height="30" width="40" />
+    <img align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="yograj-linkend" 
+    height="30" width="40" />
   </a>
 </p>
 
