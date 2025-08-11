@@ -2,7 +2,7 @@
 
 - 🔹 Mainly a Frontend Developer but currently working as Full-Stack at **DevSoft Tech HMS**
 - 🌱 Learning & improving **SQL and Laravel** skills
-- 💬 Ask me about **React, Laravel, TailwindCSS, Javascript**
+- 💬 Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**
 - 📫 How to rach me : &nbsp;ryog7910@gmail.com
 - 🚀 Love building clean, responsive, and user-friendly web applications
 
@@ -34,13 +34,14 @@
 
 ## 🚀 Languages and Tools:
 <p align="centre">
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="35" height="35"  />&nbsp;
- &nbsp; <img src="https://skillicons.dev/icons?i=css" alt="css3" width="35" height="45"/>&nbsp;
- &nbsp; <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwind" width="35" height="40"/> &nbsp;
- &nbsp;<img src="https://skillicons.dev/icons?i=js"  alt="javascript"  width="35" height="35"/>&nbsp;
- &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
- &nbsp;  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
- &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="35" height="35"/> 
+  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"  />&nbsp;
+ &nbsp; <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>&nbsp;
+ &nbsp; <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwind" width="40" height="40"/> &nbsp;
+ &nbsp; <img src="https://skillicons.dev/icons?i=js"  alt="javascript"  width="40" height="40"/>&nbsp;
+ &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
+ &nbsp; <img src="https://skillicons.dev/icons?i=mysql"  alt="sql"  width="40" height="40"/>&nbsp;
+ &nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
+ &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="38" height="38"/> 
  </p>
 <br>
 
