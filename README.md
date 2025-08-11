@@ -5,7 +5,7 @@
 - 💬 Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**
 - 🚀 Love building clean, responsive, and user-friendly web applications
 - 📫 How to rach me : &nbsp;ryog7910@gmail.com
-- 🔗 Connect with me :   [LinkedIn](https://www.linkedin.com/in/yograj-singh-750a07315) 
+- 🔗 Connect with me :   [LinkedIn](www.linkedin.com/in/yograj-singh-750a07315) 
 
 <br>
 <h1> 🚀 Languages and Tools:</h1>
