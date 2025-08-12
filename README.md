@@ -1,11 +1,11 @@
 <h1 align="center">Hii  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Yograj </h1>
 
-🔹 Mainly a Frontend Developer but currently working as Full-Stack at **DevSoft Tech HMS**
-🌱 Learning & improving **SQL and Laravel** skills
- 💬 Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**
-🚀 Love building clean, responsive, and user-friendly web applications
-📫 How to rach me &nbsp;&nbsp;: &nbsp;&nbsp;ryog7910@gmail.com
-🔗 Connect with me&nbsp; : &nbsp; <a href="https://www.linkedin.com/in/yograj-singh-750a07315" target="_blank" >LinkedIn</a>
+🔹&nbsp;&nbsp;Mainly a Frontend Developer but currently working as Full-Stack at **DevSoft Tech HMS** <br>
+🌱&nbsp;&nbsp;Learning & improving **SQL and Laravel** skills<br>
+ 💬&nbsp;&nbsp;Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**<br>
+🚀&nbsp;&nbsp;Love building clean, responsive, and user-friendly web applications<br>
+📫&nbsp;&nbsp;How to rach me &nbsp;&nbsp;: &nbsp;&nbsp;ryog7910@gmail.com<br>
+🔗&nbsp;&nbsp;Connect with me&nbsp; : &nbsp; <a href="https://www.linkedin.com/in/yograj-singh-750a07315" target="_blank" >LinkedIn</a>
 <br>
 <h1> 🚀 Languages and Tools:</h1>
 <br>
