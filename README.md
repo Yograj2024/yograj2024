@@ -1,6 +1,6 @@
 <h1 align="center">Hii  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Yograj </h1>
 
-🔹&nbsp;&nbsp;Mainly a Frontend Developer but currently working as Full-Stack at **DevSoft Tech HMS** <br>
+🔹&nbsp;&nbsp;Mainly a **Frontend Developer** but currently working as Full-Stack at **DevSoft Tech HMS** <br>
 🌱&nbsp;&nbsp;Learning & improving **SQL and Laravel** skills<br>
  💬&nbsp;&nbsp;Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**<br>
 🚀&nbsp;&nbsp;Love building clean, responsive, and user-friendly web applications<br>
