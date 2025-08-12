@@ -6,7 +6,6 @@
 - 🚀 Love building clean, responsive, and user-friendly web applications
 - 📫 How to rach me &nbsp;&nbsp;: &nbsp;&nbsp;ryog7910@gmail.com
 - 🔗 Connect with me&nbsp; : &nbsp; <a href="https://www.linkedin.com/in/yograj-singh-750a07315" target="_blank" >LinkedIn</a>
-
 <br>
 <h1> 🚀 Languages and Tools:</h1>
 <br>
