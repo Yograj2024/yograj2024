@@ -4,7 +4,7 @@
 🌱&nbsp;&nbsp;Learning & improving **SQL and Laravel** skills<br>
  💬&nbsp;&nbsp;Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**<br>
 🚀&nbsp;&nbsp;Love building clean, responsive, and user-friendly web applications<br>
-📫&nbsp;&nbsp;How to rach me &nbsp;&nbsp;: &nbsp;&nbsp;ryog7910@gmail.com<br>
+📫&nbsp;&nbsp;How to reach me &nbsp;&nbsp;: &nbsp;&nbsp;ryog7910@gmail.com<br>
 🔗&nbsp;&nbsp;Connect with me&nbsp; : &nbsp; <a href="https://www.linkedin.com/in/yograj-singh-750a07315" target="_blank" >LinkedIn</a>
 <br>
 <h1> 🚀 Languages and Tools:</h1>
