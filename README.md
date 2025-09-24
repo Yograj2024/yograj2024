@@ -39,6 +39,6 @@
 
 ## 📊 My Github Stats
 <p>
-  <img src="https://streak-stats.demolab.com/?user=yograj2024&show_icons=true" alt="Yograj's GitHub stats" />  &nbsp; &nbsp; &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Tushar81940&show_icons=true" alt="Yograj's GitHub stats" />  &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj2024" alt="Yograj's GitHub stats"  />
 </p>
