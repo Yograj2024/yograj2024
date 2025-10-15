@@ -24,7 +24,7 @@
 
 
 ### About DevSoft Tech HMS 🏥
-- It is a small HMS (Hospital Management System) startup.
+- It is a small HMS (Hospital Management System) firm.
 - Focused  to creating innovative and efficient healthcare web solutions <br> that improve patient care and streamline hospital management. 
   <br> <br> <br>
 ## 🌐 Live Projects Links
