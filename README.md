@@ -39,7 +39,6 @@
   <a href="https://yograj2024.github.io/-Web-Design-Agencypage/">Web-Design-Agencypage template</a>
 <br>
 
-## 📊 My Github Stats
 
 
 
