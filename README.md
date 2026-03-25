@@ -1,48 +1,75 @@
-<h1 align="center">Hii  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Yograj </h1>
+<h1 align="center">Hi 👋, I'm Yograj</h1>
 
-🔹&nbsp;&nbsp;Mainly a **Frontend Developer** but currently working as Full-Stack at **DevSoft Tech HMS** <br>
-🌱&nbsp;&nbsp;Learning & improving **SQL and Laravel** skills<br>
- 💬&nbsp;&nbsp;Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**<br>
-🚀&nbsp;&nbsp;Love building clean, responsive, and user-friendly web applications<br>
-📫&nbsp;&nbsp;How to reach me &nbsp;&nbsp;: &nbsp;&nbsp;c15387592@gmail.com<br>
-🔗&nbsp;&nbsp;Connect with me&nbsp; : &nbsp; <a href="https://www.linkedin.com/in/yograj-singh-750a07315" target="_blank" >LinkedIn</a>
-<br>
-<h1> 🚀 Languages and Tools:</h1>
-<br>
-<p align="centre">
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"  />&nbsp;
- &nbsp; <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>&nbsp;
- &nbsp; <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwind" width="40" height="40"/> &nbsp;
- &nbsp; <img src="https://skillicons.dev/icons?i=js"  alt="javascript"  width="40" height="40"/>&nbsp;
- &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
- &nbsp; <img src="https://skillicons.dev/icons?i=mysql"  alt="sql"  width="40" height="40"/>&nbsp;
- &nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
- &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="38" height="38"/> 
- </p>
-<br>
+<p align="center">
+Frontend Developer | React.js | Building Scalable Web Apps
+</p>
+
+---
+
+## 🚀 About Me
+- 💻 Frontend Developer with **1+ year of experience** building responsive and scalable web applications  
+- 🔗 Experienced in **API Integration, performance optimization & clean UI design**  
+- 🌱 Currently improving **SQL & Laravel backend skills**  
+- 🎯 Focused on building **production-ready, user-friendly applications**
+
+---
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: c15387592@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/yograj-singh-750a07315  
+- 📱 Phone: +91 6395560244  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,mysql,git" />
+</p>
+
+---
+
+## 💼 Experience
+
+**Frontend Developer — DevSoft Tech (HMS)**  
+📅 Aug 2024 – Oct 2025  
+
+- Built and deployed **3+ client-based web applications**  
+- Developed interactive UI using **React.js** and backend integration with **Laravel**  
+- Improved **performance, responsiveness & cross-browser compatibility**  
+- Worked on **real-world production systems** with full-stack exposure  
+
+---
+
+## 🚀 Projects
+
+### 🎬 Movie Recommendation Web App  
+🔗 https://yograjmoveiapp-793796.netlify.app  
+
+- Built a **personalized movie platform** using React.js  
+- Integrated **TMDB API (5000+ movies)**  
+- Implemented **AI-based recommendations (OpenAI API)**  
+- Improved user engagement by **80%** and retention by **35%**  
+
+---
+
+### 🌐 Personal Portfolio Website  
+🔗 https://yograj-portfolio-2edce5.netlify.app  
+
+- Designed a clean, responsive portfolio UI  
+- Added **multi-language support (Hindi, English, Marathi)**  
+- Improved accessibility for a wider audience  
+
+---
 
 
+## 📊 GitHub Stats
 
-### About DevSoft Tech HMS 🏥
-- It is a small HMS (Hospital Management System) firm.
-- Focused  to creating innovative and efficient healthcare web solutions <br> that improve patient care and streamline hospital management. 
-  <br> <br> <br>
-## 🌐 Live Projects Links
-
-### ✈️ Flight Booking & Travel Website (UI Only) 
-  - Responsive and modern UI design for a flight booking and travel platform.
-  - Implemented **conditional rendering** for dynamic UI elements and improved user interaction. <br>
-  [**wispyDeals.com**](https://wispydeals.com/)
-
-### 💼 Web Design Agency Website (UI Only)  
-- Creative and modern UI design for a web design agency's service website.<br>
-  <a href="https://yograj2024.github.io/-Web-Design-Agencypage/">Web-Design-Agencypage template</a>
-<br>
-
-
-## 📊 My Github Stats
-<p>
-  <img src="https://streak-stats.demolab.com/?user=yograj2024&show_icons=true&cashe_bust-123" alt="Yograj's GitHub stats" />  &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj2024" alt="Yograj's GitHub stats"  />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yograj2024&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj2024&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9" />
 </p>
 
