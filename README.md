@@ -4,17 +4,12 @@
 Frontend Developer | React.js | Building Scalable Web Apps
 </p>
 
----
-
 ## 🚀 About Me
 - 💻 Frontend Developer with **1+ year of experience** building responsive and scalable web applications  
 - 🔗 Experienced in **API Integration, performance optimization & clean UI design**  
 - 🌱 Currently improving **SQL & Laravel backend skills**  
 - 🎯 Focused on building **production-ready, user-friendly applications**
 
----
-
----
 
 ## 📫 Connect With Me
 
@@ -22,7 +17,6 @@ Frontend Developer | React.js | Building Scalable Web Apps
 - 💼 LinkedIn: https://www.linkedin.com/in/yograj-singh-750a07315  
 - 📱 Phone: +91 6395560244  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +24,6 @@ Frontend Developer | React.js | Building Scalable Web Apps
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,mysql,git" />
 </p>
 
----
 
 ## 💼 Experience
 
@@ -42,7 +35,6 @@ Frontend Developer | React.js | Building Scalable Web Apps
 - Improved **performance, responsiveness & cross-browser compatibility**  
 - Worked on **real-world production systems** with full-stack exposure  
 
----
 
 ## 🚀 Projects
 
@@ -54,7 +46,6 @@ Frontend Developer | React.js | Building Scalable Web Apps
 - Implemented **AI-based recommendations (OpenAI API)**  
 - Improved user engagement by **80%** and retention by **35%**  
 
----
 
 ### 🌐 Personal Portfolio Website  
 🔗 https://yograj-portfolio-2edce5.netlify.app  
@@ -63,13 +54,8 @@ Frontend Developer | React.js | Building Scalable Web Apps
 - Added **multi-language support (Hindi, English, Marathi)**  
 - Improved accessibility for a wider audience  
 
----
-
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yograj2024&hide_border=true&background=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj2024&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9" />
-</p>
+<p> <img src="https://streak-stats.demolab.com/?user=yograj2024&show_icons=true&cashe_bust=123&theme=dark&hide_border=true&background=0D1117" alt="Yograj's GitHub stats" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj2024&theme=dark&hide_border=true&bg_color=0D1117" alt="Yograj's GitHub stats" /> </p>
 
