@@ -59,7 +59,5 @@ Frontend Developer | React.js | Building Scalable Web Apps
 
 <p> 
   <img src="https://streak-stats.demolab.com/?user=yograj2024&show_icons=true&cache_bust=123&theme=dark&hide_border=true&background=0D1117" alt="Yograj's GitHub stats" /> 
-  &nbsp; &nbsp; &nbsp; 
-  
 </p>
 
