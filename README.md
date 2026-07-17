@@ -25,10 +25,14 @@ Frontend Developer | React.js | Building Scalable Web Apps
   <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;
 </p>
+
 
 
 ## 💼 Experience
