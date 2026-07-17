@@ -19,9 +19,15 @@ Frontend Developer | React.js | Building Scalable Web Apps
 
 
 ## 🛠️ Tech Stack
-
+<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;
 </p>
 
 
