@@ -51,7 +51,7 @@ Frontend Developer | React.js | Building Scalable Web Apps
     <td width="52%" valign="top">
 
 ### 🎬 Movie Recommendation Web App
-Live link :- 🔗 https://yograjmoveiapp-793796.netlify.app
+🔗 https://yograjmoveiapp-793796.netlify.app
 
 - Built a **personalized movie platform** using React.js
 - Integrated **TMDB API (5000+ movies)**
@@ -63,7 +63,7 @@ Live link :- 🔗 https://yograjmoveiapp-793796.netlify.app
 <td width="60%" valign="top">
 
 ### 🌐 Personal Portfolio Website
-Live link :- 🔗 https://yograj-portfolio-2edce5.netlify.app
+🔗 https://yograj-portfolio-2edce5.netlify.app
 
 - Designed a clean, responsive portfolio UI
 - Added **multi-language support (Hindi, English, Marathi)**
@@ -77,6 +77,6 @@ Live link :- 🔗 https://yograj-portfolio-2edce5.netlify.app
 ## 📊 GitHub Stats
 
 <p> 
-  <img src="https://streak-stats.demolab.com/?user=yograj2024&show_icons=true&cache_bust=123&theme=dark&hide_border=true&background=0D1117" alt="Yograj's GitHub stats" /> 
+  <img src="https://streak-stats.demolab.com/?user=yograj2024&show_icons=true&cache_bust=123&theme=dark&hide_border=true&background=0D1117&theme=tokyonight" alt="Yograj's GitHub stats" /> 
 </p>
 
