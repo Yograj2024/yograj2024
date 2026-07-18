@@ -26,7 +26,7 @@ Frontend Developer | React.js | Building Scalable Web Apps
   <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redux" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;&nbsp;<br><br>
+  <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=supabase" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;
@@ -48,21 +48,32 @@ Frontend Developer | React.js | Building Scalable Web Apps
 
 ## 🚀 Projects
 
-### 🎬 Movie Recommendation Web App  
-🔗 https://yograjmoveiapp-793796.netlify.app  
+<table style="width:100%;">
+<tr>
+<td width="53%" valign="top">
 
-- Built a **personalized movie platform** using React.js  
-- Integrated **TMDB API (5000+ movies)**  
-- Implemented **AI-based recommendations (OpenAI API)**  
-- Improved user engagement by **80%** and retention by **35%**  
+### 🎬 Movie Recommendation Web App
+🔗 https://yograjmoveiapp-793796.netlify.app
 
+- Built a **personalized movie platform** using React.js
+- Integrated **TMDB API (5000+ movies)**
+- Implemented **AI-based recommendations (OpenAI API)**
+- Improved user engagement by **80%** and retention by **35%**
 
-### 🌐 Personal Portfolio Website  
-🔗 https://yograj-portfolio-2edce5.netlify.app  
+</td>
 
-- Designed a clean, responsive portfolio UI  
-- Added **multi-language support (Hindi, English, Marathi)**  
-- Improved accessibility for a wider audience  
+<td width="60%" valign="top">
+
+### 🌐 Personal Portfolio Website
+🔗 https://yograj-portfolio-2edce5.netlify.app
+
+- Designed a clean, responsive portfolio UI
+- Added **multi-language support (Hindi, English, Marathi)**
+- Improved accessibility for a wider audience
+
+</td>
+</tr>
+</table>
 
 
 ## 📊 GitHub Stats
