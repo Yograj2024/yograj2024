@@ -58,7 +58,6 @@ Frontend Developer | React.js | Building Scalable Web Apps
 - Built a **personalized movie platform** using React.js
 - Integrated **TMDB API (5000+ movies)**
 - Implemented **AI-based recommendations (OpenAI API)**
-- Improved user engagement by **80%** and retention by **35%**
 
 </td>
 
