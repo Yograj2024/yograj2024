@@ -50,7 +50,7 @@ Frontend Developer | React.js | Building Scalable Web Apps
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="53%" valign="top">
 
 ### 🎬 Movie Recommendation Web App
 🔗 https://yograjmoveiapp-793796.netlify.app
