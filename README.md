@@ -48,9 +48,9 @@ Frontend Developer | React.js | Building Scalable Web Apps
 
 ## 🚀 Projects
 
-<table style="width:100%;">
+<table>
 <tr>
-<td width="53%" valign="top">
+<td width="52%" valign="top">
 
 ### 🎬 Movie Recommendation Web App
 🔗 https://yograjmoveiapp-793796.netlify.app
@@ -68,7 +68,7 @@ Frontend Developer | React.js | Building Scalable Web Apps
 🔗 https://yograj-portfolio-2edce5.netlify.app
 
 - Designed a clean, responsive portfolio UI
-- Added **multi-language support (Hindi, English, Marathi)**
+- multi-language support (Hindi, English, Marathi)
 - Improved accessibility for a wider audience
 
 </td>
