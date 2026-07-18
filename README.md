@@ -46,32 +46,31 @@ Frontend Developer | React.js | Building Scalable Web Apps
 - Worked on **real-world production systems** with full-stack exposure  
 
 
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="53%" valign="top">
+<table width="100%" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="52%" valign="top">
 
 ### 🎬 Movie Recommendation Web App
-🔗 https://yograjmoveiapp-793796.netlify.app
+Live link :- 🔗 https://yograjmoveiapp-793796.netlify.app
 
 - Built a **personalized movie platform** using React.js
 - Integrated **TMDB API (5000+ movies)**
 - Implemented **AI-based recommendations (OpenAI API)**
+- Improved user engagement by **80%** and retention by **35%**
 
 </td>
 
 <td width="60%" valign="top">
 
 ### 🌐 Personal Portfolio Website
-🔗 https://yograj-portfolio-2edce5.netlify.app
+Live link :- 🔗 https://yograj-portfolio-2edce5.netlify.app
 
 - Designed a clean, responsive portfolio UI
-- multi-language support (Hindi, English, Marathi)
+- Added **multi-language support (Hindi, English, Marathi)**
 - Improved accessibility for a wider audience
 
 </td>
-</tr>
+  </tr>
 </table>
 
 
